@@ -11,10 +11,10 @@
 ![HTML5](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript)
 ![HTML5](https://img.shields.io/badge/-Swiperjs-452BA9?style=for-the-badge&logo=Swiper)
 ![HTML5](https://img.shields.io/badge/-React-0B0528?style=for-the-badge&logo=React)
-![HTML5](https://img.shields.io/badge/-Vue-0B0528?style=for-the-badge&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-Nodejs-0B0528?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/-Express-0B0528?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/-mongoDB-0B0528?style=for-the-badge&logo=mongoDB)
+![HTML5](https://img.shields.io/badge/-Vue-fff?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-Nodejs-23F88A?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![HTML5](https://img.shields.io/badge/-mongoDB-007639?style=for-the-badge&logo=mongoDB)
 
 <!--
 **Nurbek04051328/Nurbek04051328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
