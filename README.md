@@ -1,5 +1,9 @@
-### Hi there 👋
 
+## I'm Fullstack developer
+
+Language and Tools
+
+Follow me
 <!--
 **Nurbek04051328/Nurbek04051328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
