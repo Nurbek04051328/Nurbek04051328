@@ -1,7 +1,7 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nurbek Ismoilov 👋
 
-### 🚀 Senior Fullstack Engineer | Node.js & Vue.js Specialist
+### 🚀 Middle Fullstack Engineer | Node.js & Vue.js Specialist
 
 I am a results-driven Fullstack Developer with over **4 years of professional experience** in building scalable, high-performance web applications. I specialize in architecting robust backends and crafting intuitive, SEO-friendly frontends using modern JavaScript ecosystems.
 
@@ -29,14 +29,14 @@ I am a results-driven Fullstack Developer with over **4 years of professional ex
 
 ### 📊 GitHub Insights
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurbek04051328&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 **Email:** [your.email@example.com]
+- 📧 **Email:** [bek050613@mail.ru]
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
 - ✈️ **Telegram:** [@yourusername]
 - 🌐 **Portfolio:** [yourportfolio.com]
