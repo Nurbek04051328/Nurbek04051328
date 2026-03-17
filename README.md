@@ -1,40 +1,45 @@
 
-## I'm Fullstack developer
+# Hi there, I'm [Your Name] 👋
 
-### Language and Tools
-![HTML5](https://img.shields.io/badge/-HTML-021B93?style=for-the-badge&logo=HTML5)
-![Css3](https://img.shields.io/badge/-Css-000D4E?style=for-the-badge&logo=Css3)
-![HTML5](https://img.shields.io/badge/-Bootstrap-fff?style=for-the-badge&logo=Bootstrap)
-![HTML5](https://img.shields.io/badge/-Less-3E4FA1?style=for-the-badge&logo=Less)
-![HTML5](https://img.shields.io/badge/-Sass-fff?style=for-the-badge&logo=Sass)
-![HTML5](https://img.shields.io/badge/-Pug-379685?style=for-the-badge&logo=Pug)
-![HTML5](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript)
-![HTML5](https://img.shields.io/badge/-Swiperjs-452BA9?style=for-the-badge&logo=Swiper)
-![HTML5](https://img.shields.io/badge/-React-0B0528?style=for-the-badge&logo=React)
-![HTML5](https://img.shields.io/badge/-Vue-fff?style=for-the-badge&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-Nodejs-23F88A?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/-mongoDB-007639?style=for-the-badge&logo=mongoDB)
+### 🚀 Senior Fullstack Engineer | Node.js & Vue.js Specialist
 
+I am a results-driven Fullstack Developer with over **4 years of professional experience** in building scalable, high-performance web applications. I specialize in architecting robust backends and crafting intuitive, SEO-friendly frontends using modern JavaScript ecosystems.
 
-### Follow me
-[![HTML5](https://img.shields.io/badge/-Telegram-fff?style=for-the-badge&logo=telegram)](https://t.me/o101010101010101010)
-[![HTML5](https://img.shields.io/badge/-Github-fff?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Nurbek04051328)
-[![HTML5](https://img.shields.io/badge/-Linkedin-fff?style=for-the-badge&logo=linkedIn&logoColor=1506FF)](https://www.linkedin.com/in/nurbek-ismoilov-806184214/)
-[![HTML5](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/_nurbek_0506/)
-[![HTML5](https://img.shields.io/badge/-Facebook-fff?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100022610812202)
+---
 
-<!--
-**Nurbek04051328/Nurbek04051328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 My Technical Toolkit
 
-Here are some ideas to get you started:
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend** | Node.js, **Fastify**, Express, NestJS |
+| **Frontend** | **Vue 3**, **Nuxt 3**, Pinia, Tailwind CSS |
+| **Database** | **PostgreSQL**, **MongoDB**, Redis |
+| **DevOps & Cloud** | Docker, Git, Linux, GitHub Actions |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗 What I Bring to the Table
+
+* **High-Performance Backends:** Expertise in building ultra-fast APIs using **Fastify** and **Node.js**, focusing on low overhead and high throughput.
+* **Modern Frontend Solutions:** Crafting high-performance, server-side rendered (SSR) applications with **Nuxt 3** and **Vue 3** for optimal user experience and SEO.
+* **Database Architecture:** Designing optimized relational (**PostgreSQL**) and non-relational (**MongoDB**) schemas, including advanced query optimization and aggregation.
+* **Telegram Ecosystem:** Building complex, automated systems and bots using the **grammY** framework and integrations.
+
+---
+
+### 📊 GitHub Insights
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 **Email:** [your.email@example.com]
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
+- ✈️ **Telegram:** [@yourusername]
+- 🌐 **Portfolio:** [yourportfolio.com]
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
