@@ -36,10 +36,10 @@ I am a results-driven Fullstack Developer with over **4 years of professional ex
 
 ### 📫 Let's Connect!
 
-- 📧 **Email:** [bek050613@mail.ru]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-- ✈️ **Telegram:** [@yourusername]
-- 🌐 **Portfolio:** [yourportfolio.com]
+- 📧 **Email:** bek050613@mail.ru
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nurbek-ismoilov-50718123b
+- ✈️ **Telegram:** @ismoilov_nurbek
+- 🌐 **Portfolio:** soon
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
