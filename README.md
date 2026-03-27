@@ -30,7 +30,7 @@ I am a results-driven Fullstack Developer with over **4 years of professional ex
 ### 📊 GitHub Insights
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurbek04051328&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=Nurbek04051328&layout=compact&theme=tokyonight)
+
 
 ---
 
