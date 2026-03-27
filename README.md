@@ -30,7 +30,7 @@ I am a results-driven Fullstack Developer with over **4 years of professional ex
 ### 📊 GitHub Insights
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurbek04051328&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbek04051328&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=Nurbek04051328&layout=compact&theme=tokyonight)
 
 ---
 
@@ -38,7 +38,7 @@ I am a results-driven Fullstack Developer with over **4 years of professional ex
 
 - 📧 **Email:** bek050613@mail.ru
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nurbek-ismoilov-50718123b
-- ✈️ **Telegram:** @ismoilov_nurbek
+- ✈️ **Telegram:** https://t.me/ismoilov_nurbek
 - 🌐 **Portfolio:** soon
 
 ---
